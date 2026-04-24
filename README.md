@@ -1,15 +1,15 @@
 # user-info-
 this is my first and very basic project
 
-Features
+### Features
 Takes user input (name, age, DOB)
 Displays formatted output
 
-Tech Used
+### Tech Used
 Python (basic)
 
-How to Run
-Install Python
+### How to Run
+### Install Python
 Run: python [userinfo.py](https://github.com/user-attachments/files/27058045/userinfo.py)
 ### Code:
 ```python
