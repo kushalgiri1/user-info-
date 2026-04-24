@@ -2,13 +2,8 @@
 this is my first and very basic project
 
 
-
-
-
-
-
-[userinfo.py](https://github.com/user-attachments/files/27058045/userinfo.py)
-
+### Code:
+'''python
 print("hello world")
 name="kushal"
 age=20
@@ -18,3 +13,6 @@ dob=input("ENTRE THE DOB: ")
 print(f"hellow {user_name}")
 print(user_age)
 print(dob)
+
+
+[userinfo.py](https://github.com/user-attachments/files/27058045/userinfo.py)
