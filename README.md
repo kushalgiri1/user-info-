@@ -1,6 +1,14 @@
 # user-info-
 this is my first and very basic project
 
+
+
+
+
+
+
+[userinfo.py](https://github.com/user-attachments/files/27058045/userinfo.py)
+
 print("hello world")
 name="kushal"
 age=20
